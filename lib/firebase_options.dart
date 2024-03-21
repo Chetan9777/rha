@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCFAEpJxU5KoNqpQJRN23ru9NKMYKEDe44',
-    appId: '1:454688030249:web:d6bcf3aecfd3cdc8ec2638',
-    messagingSenderId: '454688030249',
-    projectId: 'robinfinal-d7a43',
-    authDomain: 'robinfinal-d7a43.firebaseapp.com',
-    storageBucket: 'robinfinal-d7a43.appspot.com',
+    apiKey: 'AIzaSyBVNTnBar8PHSHaK_iqDfYOuYzsd69Snlc',
+    appId: '1:82614631977:web:339a0e9fc9341c21bfa638',
+    messagingSenderId: '82614631977',
+    projectId: 'robinhoodarmy-edbd4',
+    authDomain: 'robinhoodarmy-edbd4.firebaseapp.com',
+    storageBucket: 'robinhoodarmy-edbd4.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA9Pn-11tmSPrePxd2sI6Ng7RspSJuiDXU',
-    appId: '1:454688030249:android:d50460dbaaf11d56ec2638',
-    messagingSenderId: '454688030249',
-    projectId: 'robinfinal-d7a43',
-    storageBucket: 'robinfinal-d7a43.appspot.com',
+    apiKey: 'AIzaSyDZ9C9Fh29jypre2eEVvMCAA0NiQk3HkKQ',
+    appId: '1:82614631977:android:94f79f7e18f2a348bfa638',
+    messagingSenderId: '82614631977',
+    projectId: 'robinhoodarmy-edbd4',
+    storageBucket: 'robinhoodarmy-edbd4.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCiJuRYc_YIxs5uLLw-HWtxvu2lKd1AG8c',
-    appId: '1:454688030249:ios:f5ede64b601c8cefec2638',
-    messagingSenderId: '454688030249',
-    projectId: 'robinfinal-d7a43',
-    storageBucket: 'robinfinal-d7a43.appspot.com',
+    apiKey: 'AIzaSyDG0cRsDCvTKynpSdb_z8_9iuPIgGw17bc',
+    appId: '1:82614631977:ios:256d3122e67f3878bfa638',
+    messagingSenderId: '82614631977',
+    projectId: 'robinhoodarmy-edbd4',
+    storageBucket: 'robinhoodarmy-edbd4.appspot.com',
     iosBundleId: 'com.example.robinfinal',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCiJuRYc_YIxs5uLLw-HWtxvu2lKd1AG8c',
-    appId: '1:454688030249:ios:ae935a4b327f3305ec2638',
-    messagingSenderId: '454688030249',
-    projectId: 'robinfinal-d7a43',
-    storageBucket: 'robinfinal-d7a43.appspot.com',
+    apiKey: 'AIzaSyDG0cRsDCvTKynpSdb_z8_9iuPIgGw17bc',
+    appId: '1:82614631977:ios:82e9b8740ad3ebf7bfa638',
+    messagingSenderId: '82614631977',
+    projectId: 'robinhoodarmy-edbd4',
+    storageBucket: 'robinhoodarmy-edbd4.appspot.com',
     iosBundleId: 'com.example.robinfinal.RunnerTests',
   );
 }

@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "454688030249",
-    "project_id": "robinfinal-d7a43",
-    "storage_bucket": "robinfinal-d7a43.appspot.com"
+    "project_number": "82614631977",
+    "project_id": "robinhoodarmy-edbd4",
+    "storage_bucket": "robinhoodarmy-edbd4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:454688030249:android:20edcce75ae3ac2eec2638",
-        "android_client_info": {
-          "package_name": "com.example.rha"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA9Pn-11tmSPrePxd2sI6Ng7RspSJuiDXU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:454688030249:android:d50460dbaaf11d56ec2638",
+        "mobilesdk_app_id": "1:82614631977:android:94f79f7e18f2a348bfa638",
         "android_client_info": {
           "package_name": "com.example.robinfinal"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA9Pn-11tmSPrePxd2sI6Ng7RspSJuiDXU"
+          "current_key": "AIzaSyDZ9C9Fh29jypre2eEVvMCAA0NiQk3HkKQ"
         }
       ],
       "services": {
